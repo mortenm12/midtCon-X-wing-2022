@@ -10359,7 +10359,7 @@ exportObj.basicCardData = ->
             ship: "Trident-class Assault Ship"
             skill: 8
             engagement: 0
-            points: 85
+            points: 10
             slots: [
                 "Command"
                 "Torpedo"
@@ -10380,7 +10380,7 @@ exportObj.basicCardData = ->
             ship: "Trident-class Assault Ship"
             skill: 8
             engagement: 0
-            points: 85
+            points: 10
             slots: [
                 "Command"
                 "Torpedo"
